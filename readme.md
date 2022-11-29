@@ -4,8 +4,8 @@
 
 ## Ejemplo en vivo
 
-- [github-repositorie](https://github.com/elvvira/practica-Blogr)
-- [URL-de-la-api](https://elvvira.github.io/practica-Blogr/)
+- [github-repositorie](https://elvvira.github.io/practica-Blogr/)
+
 
 ## Descripción 
 
